@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/react-payments/static/css/main.9dca1f42.css",
-    "main.js": "/react-payments/static/js/main.7324afce.js",
+    "main.js": "/react-payments/static/js/main.621d30de.js",
+    "static/media/shinhan-card.svg": "/react-payments/static/media/shinhan-card.5525f348e8696bd5237a245802c3fa11.svg",
+    "static/media/bc-card.svg": "/react-payments/static/media/bc-card.6eb30052b265522c454ced82abcb2077.svg",
+    "static/media/kakao-card.svg": "/react-payments/static/media/kakao-card.7a62aeb4903df4d4e94c6725f3a22dee.svg",
+    "static/media/hyundai-card.svg": "/react-payments/static/media/hyundai-card.cc3084179c2b31fed5f4de1136dea786.svg",
+    "static/media/lotte-card.svg": "/react-payments/static/media/lotte-card.8d202dd8aab5b82dbb5f9f2c2c00cfd6.svg",
+    "static/media/woori-card.svg": "/react-payments/static/media/woori-card.7db8d1c70ef396186a45f2eb8dfe3f18.svg",
+    "static/media/kb-card.svg": "/react-payments/static/media/kb-card.82f2c2dbc6709c43da0f45d9ac0d2036.svg",
+    "static/media/hana-card.svg": "/react-payments/static/media/hana-card.f7b55514c22954563d7cb5c2ebbe4920.svg",
     "index.html": "/react-payments/index.html",
     "main.9dca1f42.css.map": "/react-payments/static/css/main.9dca1f42.css.map",
-    "main.7324afce.js.map": "/react-payments/static/js/main.7324afce.js.map"
+    "main.621d30de.js.map": "/react-payments/static/js/main.621d30de.js.map"
   },
   "entrypoints": [
     "static/css/main.9dca1f42.css",
-    "static/js/main.7324afce.js"
+    "static/js/main.621d30de.js"
   ]
 }
