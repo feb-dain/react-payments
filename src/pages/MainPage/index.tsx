@@ -27,11 +27,13 @@ const MainPage = () => {
         )}
 
         <Button
-          children="+"
           name="카드 추가 버튼"
           ButtonStyle={AddButton}
           onClick={goToRegister}
-        />
+          aria-label="카드 추가"
+          >
+            <span>+</span>
+          </Button>
       </S.Main>
     </S.Wrapper>
   );
